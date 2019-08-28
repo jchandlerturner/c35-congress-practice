@@ -1,0 +1,58 @@
+.flex-container {
+    display: flex;
+    width: 100%;
+    background-color: #142BB3;
+    font-family: sans-serif;
+    text-align: center;
+    justify-content: center;    
+    color: white;
+}
+
+.flex-item {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    margin-top: 1em;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+    
+
+a:hover, a:active {
+    color: red;
+}
+
+body {
+    margin: 0;
+    background-color: #FFCF36;
+}
+
+a {
+    color: black;
+}
+
+.legislation {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+    margin-top: 3em;
+    font-family: sans-serif;
+    padding-bottom: 1em;
+}
+
+h2 {
+    text-align: center;
+}
+
+li {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1 {
+    margin-bottom: 0em;
+}
+
+.jim {
+    margin-top: 2px;
+}
